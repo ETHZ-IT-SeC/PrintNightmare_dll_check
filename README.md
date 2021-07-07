@@ -48,21 +48,18 @@ copy of unsigned dlls: C:\path_to\PrintNightmare_2nd_check_path\
 
 Example of logfile - NO unsigned dll found
 ------------------------------------------
-<pre><code>
-20210707-1142
+<pre><code>20210707-1142
 script start
 
 all dll files provide authenticode or are directly signed  
 NO suspicious dll files detetcted
 
-script end
-</code></pre>
+script end</code></pre>
 
 
 Example of logfile - unsigned dll found
 ---------------------------------------
-<pre><code>
-20210707-1138
+<pre><code>20210707-1138
 script start
 
 dll files without authenticode nor directly signed:  
@@ -92,8 +89,7 @@ c:\test\printnightmare_2nd_check_path\Vix64AllProductsDyn.dll:
 	VT detection:	0/73  
 	VT link:	https://www.virustotal.com/gui/file/985e8f96133b794a66cb1af894ac5ed509ac3de4a54db73fd85c96505cc5d890/detection  
 
-script end
-</code></pre>
+script end</code></pre>
 
 
 How to test the script
