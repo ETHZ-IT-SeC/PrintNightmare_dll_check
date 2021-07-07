@@ -20,10 +20,10 @@ Please manually download sigcheck64.exe from the offical Sysinternal website and
 
 Requirements
 ------------
--Download of Sysinternals Sigcheck.zip
--Extracting of sigcheck64.exe from Sigcheck.zip
--local user rights (Admin permission NOT required)
--Internet connection for external check of unsigned dll with Virustotal.com (or remove the sigcheck parameters '-v -vt' to stay local)
+1. Download of Sysinternals Sigcheck.zip
+2. Extracting of sigcheck64.exe from Sigcheck.zip
+3. local user rights (Admin permission NOT required)
+4. Internet connection for external check of unsigned dll with Virustotal.com (or remove the sigcheck parameters '-v -vt' to stay local)
 
 
 How to run
